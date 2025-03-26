@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my front end skills<br>👯 I’m looking to collaborate on full stack projects<br>🤝 I’m looking for help with finding summer internships<br>🌱 I’m currently learning React
+🔭 I’m currently working on my front end skills<br>👯 I’m looking to collaborate on full stack projects<br>🤝 I’m looking for help with finding summer internships<br>🌱 I’m currently learning React<br>📫 Feel free to reach out to me at elecwizer@gmail.com !
 
 
 # 💻 Tech Stack:
