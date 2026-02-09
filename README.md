@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my front end and UI/UX skills<br>👯 I’m looking to collaborate on full stack projects<br>🎮 Aspiring game designer and developer<br>🤝 I’m looking for help with finding summer internships<br>🌱 I’m currently learning React<br>📫 Feel free to reach out to me at elecwizer@gmail.com !
 
-# 🏆 achievements: 
+# 🏆 Achievements: 
 * Game designer of 3rd place winner team in Gaming+ game jam at KFUPM
 * Certified front end developer by META through coursera 
 
