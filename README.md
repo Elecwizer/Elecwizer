@@ -25,4 +25,4 @@
 ### Game Dev Tools
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ### Others
-![Discord Developer API](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Steam Developer API](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Discord Developer API](https://img.shields.io/badge/Discord%20Developer%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Steam API](https://img.shields.io/badge/Steam%20API-000000?style=for-the-badge&logo=steam&logoColor=white)
